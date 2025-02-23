@@ -3,7 +3,7 @@
 
 This repository contains a TypeScript function called `filterPersons` that filters an array of `Person` objects (`User` or `Admin`) based on their type and additional criteria. The function is type-safe and ensures that filtering is done correctly based on the provided arguments.
 
-## Usage.
+## `Usage.
 
 ### Function Signature.
 
@@ -12,7 +12,7 @@ function filterPersons(persons: Person[], personType: 'user', criteria: Partial<
 function filterPersons(persons: Person[], personType: 'admin', criteria: Partial<Omit<Admin, 'type'>>): Admin[];
 
 
-import { filterPersons, persons, logPerson } from './filterPersons';
+`import { filterPersons, persons, logPerson } from './filterPersons';
 
 // Filter users of age 23
 const usersOfAge23 = filterPersons(persons, 'user', { age: 23 });
@@ -42,7 +42,7 @@ npm install
 npm start
 
 
-### Key Features of the README
+### `Key Features of the README
 
 1. **Function Signature**: Clearly explains the overloaded `filterPersons` function.
 2. **Usage Example**: Provides a practical example of how to use the function.
@@ -51,5 +51,3 @@ npm start
 5. **Installation**: Provides steps to clone and run the repository.
 6. **Contributing**: Encourages contributions and provides guidelines.
 7. **License**: Specifies the license for the project.
-
-This README is written in GitHub-flavored Markdown and is ready to be used in a GitHub repository.
