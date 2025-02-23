@@ -40,13 +40,13 @@ npm install
 
 npm start
 
+``
+### Key Features of the README
 
-### `Key Features of the README
-
-1. **Function Signature**: Clearly explains the overloaded `filterPersons` function.
-2. **Usage Example**: Provides a practical example of how to use the function.
-3. **Output**: Shows the expected output of the example.
-4. **Code Structure**: Breaks down the code into interfaces, helper functions, and the main function.
-5. **Installation**: Provides steps to clone and run the repository.
-6. **Contributing**: Encourages contributions and provides guidelines.
-7. **License**: Specifies the license for the project.`
+1. **Function Signature** : Clearly explains the overloaded `filterPersons` function.
+2. **Usage Example** : Provides a practical example of how to use the function.
+3. **Output** : Shows the expected output of the example.
+4. **Code Structure** : Breaks down the code into interfaces, helper functions, and the main function.
+5. **Installation** : Provides steps to clone and run the repository.
+6. **Contributing** : Encourages contributions and provides guidelines.
+7. **License** : Specifies the license for the project.`
