@@ -25,7 +25,6 @@ console.log('Admins of age 23:');
 adminsOfAge23.forEach(logPerson);.
 
 
-
 Users of age 23:
  - Kate Müller, 23, Astronaut
  - Wilson, 23, Ball
@@ -50,4 +49,4 @@ npm start
 4. **Code Structure**: Breaks down the code into interfaces, helper functions, and the main function.
 5. **Installation**: Provides steps to clone and run the repository.
 6. **Contributing**: Encourages contributions and provides guidelines.
-7. **License**: Specifies the license for the project.
+7. **License**: Specifies the license for the project.`
